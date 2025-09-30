@@ -1,1 +1,14 @@
-Assignment00/cats_vs_dogs_dataset/
+# Ignore dataset files
+Assignment00/cats_vs_dogs_dataset/cat/
+Assignment00/cats_vs_dogs_dataset/dog/
+
+# Ignore common junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Ignore virtual environment
+venv/
+.env/
